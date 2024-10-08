@@ -1,17 +1,10 @@
-## Getting Started
+# dio-java-desafio-iphone-uml
+Desafio da DIO do Bootcamp Java Backend Claro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
+Este desafio utiliza os princípios da POO para simular a implementação de mais de uma classe dentro da interface do "IPhone". A intenção do projeto é de colocar em prática esses princípios dentro de um bootcamp BackEnd.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Você pode utilizar o projeto de referência, mas por favor credite a fonte.
 
 ## Dependency Management
 
